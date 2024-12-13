@@ -22,7 +22,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>FabioLettieri</name>
-	     <url>https://maven.pkg.github.com/FabioLettieri/lib-domain</url>
+	     <url>https://maven.pkg.github.com/FabioLettieri/domain-lib</url>
 	   </repository>
 	</distributionManagement>
 
