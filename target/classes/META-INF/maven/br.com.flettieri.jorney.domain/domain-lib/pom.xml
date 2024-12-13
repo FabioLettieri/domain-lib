@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.flettieri.jorney.domain</groupId>
 	<artifactId>domain-lib</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<properties>
 		<maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
@@ -19,12 +19,12 @@
 	</dependencies>
 	
 	<distributionManagement>
-	   <repository>
-	     <id>github</id>
-	     <name>FabioLettieri</name>
-	     <url>https://maven.pkg.github.com/FabioLettieri/domain-lib</url>
-	   </repository>
+	    <repository>
+	        <id>github</id>
+	        <url>https://maven.pkg.github.com/FabioLettieri/domain-lib</url>
+	    </repository>
 	</distributionManagement>
+
 
 	
 	<build>
